@@ -1,0 +1,5 @@
+I do not include the unit tests, because it won't pass the styling test in the stacscheck.
+
+In this assignment, I created a class named AnimalChess contains "Main" method for debugging purpose.
+There is a method called printState to display the state of the board game.
+
